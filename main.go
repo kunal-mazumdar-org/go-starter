@@ -10,5 +10,5 @@ func main() {
 	if err != nil {
 		fmt.Print(err)
 	}
-	fmt.Print("Test 1")
+	fmt.Print("Test 123")
 }
